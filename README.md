@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Eirene --- Full Stack Web Developer | Architect</h3>
+<h3 align="left">Hi, I'm Eirene --- Full Stack Web Developer</h3>
 <h3 align="left"></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eirenechan&label=Profile%20views&color=0e75b6&style=flat" alt="eirenechan" /> </p> -->

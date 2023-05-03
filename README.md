@@ -31,7 +31,7 @@
  
 </p>
 <br>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eirenechan&show_icons=true&locale=en&layout=compact" alt="eirenechan" /></div>
+<!-- <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eirenechan&show_icons=true&locale=en&layout=compact" alt="eirenechan" /></div> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eirenechan&show_icons=true&locale=en" alt="eirenechan" /></p> -->
 
